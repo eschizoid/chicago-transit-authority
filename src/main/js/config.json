@@ -1,0 +1,22 @@
+{
+  "ctaKey": "",
+  "appId": "",
+  "routes": [
+    {
+      "routeId": "2",
+      "stopId": "1646"
+    },
+    {
+      "routeId": "6",
+      "stopId": "5037"
+    },
+    {
+      "routeId": "15",
+      "stopId": "15671"
+    },
+    {
+      "routeId": "28",
+      "stopId": "5037"
+    }
+  ]
+}
