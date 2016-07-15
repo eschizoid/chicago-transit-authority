@@ -1,3 +1,5 @@
+![Alt text](./images/108.jpg?raw=false)
+
 ##CTA-AWS Lambda function for Alexa
 
 ### Setup
